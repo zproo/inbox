@@ -1,0 +1,21 @@
+{
+  "name": "imovie",
+  "version": "1.0.0",
+  "description": "nodejs movie",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "imovie"
+  },
+  "keywords": [
+    "imovie"
+  ],
+  "author": "zproo",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.2",
+    "pug": "^2.0.0-rc.1"
+  }
+}
