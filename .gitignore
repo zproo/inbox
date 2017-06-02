@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+
+#package file
+*.war
+*.ear
+
+#maven
+target/
+
+#idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.ims
+
+#temp
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#sys
+.DB_Store
+Thumbs.db
