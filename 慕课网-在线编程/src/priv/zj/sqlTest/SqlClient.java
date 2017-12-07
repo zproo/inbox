@@ -1,8 +1,8 @@
-import priv.zj.sqlTest.HandleSql;
+package priv.zj.sqlTest;
 
 import java.util.concurrent.CountDownLatch;
 
-public class Main {
+public class SqlClient {
     public static void main(String[] args) {
         CountDownLatch countDownLatch = new CountDownLatch(1);
 
