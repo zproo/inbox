@@ -1,4 +1,4 @@
-package priv.zj.sqlTest;
+package priv.zj.mysql事务;
 
 import java.util.concurrent.CountDownLatch;
 
