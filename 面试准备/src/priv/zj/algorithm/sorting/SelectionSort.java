@@ -22,7 +22,7 @@ public class SelectionSort {
                 }
             }
 
-            // 将最小值放到最前面
+            // 将最小值放到最前面（元素交换）
             if (mink != i) {
                 int temp = array[i];
                 array[i] = array[mink];

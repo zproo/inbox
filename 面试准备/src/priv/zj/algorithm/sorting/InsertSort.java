@@ -38,7 +38,7 @@ public class InsertSort {
     }
 
     /*
-     * 方法2：直接插入排序 针对有序序列在插入时采用移动法
+     * 方法2：直接插入排序 针对有序序列在插入时采用 交换法
      *
      * */
     static void funInsertSort1(int[] array) {
