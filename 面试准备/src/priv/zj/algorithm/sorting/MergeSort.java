@@ -1,8 +1,10 @@
 package priv.zj.algorithm.sorting;
 
+import java.util.Arrays;
+
 /*
-* 归并排序
-* */
+ * 归并排序
+ * */
 public class MergeSort {
     public static void main(String[] args) {
         int[] array = {3, 2, 8, 6, 7, 9, 1, 5};
@@ -22,7 +24,31 @@ public class MergeSort {
             int mid = (left + right) / 2;
             funMergeSort(array, left, mid); // 左边归并排序
             funMergeSort(array, mid + 1, right); // 左边归并排序
-            merge(array, left, mid, right); // 将两个子数组合并
+            merge1(array, left, mid, right); // 将两个子数组合并
+        }
+
+    }
+
+    static void merge1(int[] array, int low, int mid, int high) {
+        // temp数组下标从0开始
+        int[] temp = Arrays.copyOfRange(array, low, high + 1);
+
+        int i = low;
+        int j = mid + 1;
+        for (int k = low; k <= high; k++) {
+            if (i > mid) {
+                array[k] = temp[j - low];
+                j++;
+            } else if (j > high) {
+                array[k] = temp[i - low];
+                i++;
+            } else if (temp[i - low] < temp[j - low]) {
+                array[k] = temp[i - low];
+                i++;
+            } else {
+                array[k] = temp[j - low];
+                j++;
+            }
         }
 
     }

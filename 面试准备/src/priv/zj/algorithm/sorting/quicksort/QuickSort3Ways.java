@@ -9,6 +9,8 @@ public class QuickSort3Ways {
             int i1 = a[i];
             System.out.println(i1);
         }
+
+        Integer.valueOf(1000);
     }
 
     // 3. 3路快速排序，不需要partition函数，递归函数就是本身

@@ -23,11 +23,14 @@ public class SelectionSort {
             }
 
             // 将最小值放到最前面（元素交换）
-            if (mink != i) {
-                int temp = array[i];
-                array[i] = array[mink];
-                array[mink] = temp;
-            }
+            swap(array, i, mink);
         }
+    }
+
+    // 交换数组元素
+    static void swap(int[] arr, int a, int b) {
+        int temp = arr[a];
+        arr[a] = arr[b];
+        arr[b] = temp;
     }
 }
