@@ -15,7 +15,7 @@ public class LinkedListCreate {
 
 
     /*
-     * create a linked list
+     * create binary_search_01 linked list
      * @param data the data to create the list
      * @return head of the linked list. The returned linked list
      * ends with last node with getNext() == null

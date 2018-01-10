@@ -28,8 +28,8 @@ public class QuickSort3Ways {
 
         int pivot = array[left];
 
-        int lt = left; // lower than a[left+1...lt] < pivot
-        int gt = right + 1; // greater than a[gt...right] > pivot
+        int lt = left; // lower than binary_search_01[left+1...lt] < pivot
+        int gt = right + 1; // greater than binary_search_01[gt...right] > pivot
         int i = left + 1;
 
         while (i < gt) {

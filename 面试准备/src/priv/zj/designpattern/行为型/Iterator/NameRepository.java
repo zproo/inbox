@@ -9,8 +9,7 @@ public class NameRepository implements Container{
     }
 
     private class NameIterator implements Iterator {
-        int index; // int型 类成员变量被jvm初始化为0
-
+        int index; // int型 类成员变量被jvm初始化为
 
         @Override
         public boolean hasNext() {
@@ -29,6 +28,4 @@ public class NameRepository implements Container{
             return null;
         }
     }
-
-
 }
