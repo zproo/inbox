@@ -1,6 +1,6 @@
 package bobo.algo.minimum_span_trees_08.lazy_prim_03;
 
-import sun.jvm.hotspot.asm.Arithmetic;
+//import sun.jvm.hotspot.asm.Arithmetic;
 
 import java.util.Vector;
 

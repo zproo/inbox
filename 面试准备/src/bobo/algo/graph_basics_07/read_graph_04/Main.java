@@ -14,13 +14,13 @@ public class Main {
 
         System.out.println();
 
-        DenseGraph g2 = new DenseGraph(13, false);
+        /*DenseGraph g2 = new DenseGraph(13, false);
         ReadGraph readGraph2 = new ReadGraph(g2 , filename );
         System.out.println("test G1 in Dense Graph:");
-        g2.show();
+        g2.show();*/
 
         System.out.println();
-
+/*
         // 使用两种图的存储方式读取testG2.txt文件
         filename = "E:\\github\\inbox\\面试准备\\src\\bobo\\algo\\graph_basics_07\\read_graph_04\\testG2.txt";
         SparseGraph g3 = new SparseGraph(6, false);
@@ -33,6 +33,6 @@ public class Main {
         DenseGraph g4 = new DenseGraph(6, false);
         ReadGraph readGraph4 = new ReadGraph(g4, filename);
         System.out.println("test G2 in Dense Graph:");
-        g4.show();
+        g4.show();*/
     }
 }

@@ -10,7 +10,7 @@ public class Main {
 
         SparseWeightedGraph<Integer> g = new SparseWeightedGraph<Integer>(V, true);
         // Dijkstra最短路径算法同样适用于有向图
-        //SparseGraph<int> g = SparseGraph<int>(V, false);
+        //SparseGraph<int> g = SparseGraph<int>(v, false);
         ReadWeightedGraph readGraph = new ReadWeightedGraph(g, filename);
 
         System.out.println("Test Dijkstra:\n");

@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String filename = "testG1.txt";
+        String filename = "E:\\github\\inbox\\面试准备\\src\\bobo\\algo\\minimum_span_trees_08\\lazy_prim_03\\testG1.txt";
         int V = 8;
 
         SparseWeightedGraph<Double> g = new SparseWeightedGraph<Double>(V, false);
