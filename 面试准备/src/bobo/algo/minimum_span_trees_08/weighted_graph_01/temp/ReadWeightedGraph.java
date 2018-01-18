@@ -18,13 +18,13 @@ public class ReadWeightedGraph {
             // 读取节点数+边数
             int V = scanner.nextInt();
             if (V < 0) {
-                throw new IllegalArgumentException("number of vertices in a_1 Graph must be nonnegative");
+                throw new IllegalArgumentException("number of vertices in a1_数组 Graph must be nonnegative");
             }
             assert V == graph.V();
 
             int E = scanner.nextInt();
             if (E < 0) {
-                throw new IllegalArgumentException("number of edges in a_1 Graph must be nonnegative");
+                throw new IllegalArgumentException("number of edges in a1_数组 Graph must be nonnegative");
             }
 
             for (int i = 0; i < E; i++) {

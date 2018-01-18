@@ -21,13 +21,18 @@ public class BubbleSort {
 
             for (int j = 0; j < array.length - 1 - i; j++) {
                 if (array[j] > array[j + 1]) {
-                    int temp = array[j + 1];
-                    array[j + 1] = array[j];
-                    array[j] = temp;
+                    swap(array, j, j + 1);
                     // 如果在某次遍历中没有发生交换，那么就不必进行下次遍历，因为序列已经有序。
                     flag = true;
                 }
             }
         }
+    }
+
+    // 交换数组元素
+    static void swap(int[] arr, int a, int b) {
+        int temp = arr[a];
+        arr[a] = arr[b];
+        arr[b] = temp;
     }
 }

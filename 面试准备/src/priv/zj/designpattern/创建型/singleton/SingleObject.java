@@ -6,7 +6,8 @@ public class SingleObject {
     private static SingleObject instance = new SingleObject();
 
     // 让构造函数为 private， 这样该类就不会被实例化
-    private SingleObject() {}
+    private SingleObject() {
+    }
 
     // 获取唯一可用的对象
     public static SingleObject getInstance() {
@@ -21,9 +22,9 @@ public class SingleObject {
 
 // 单例模式的几种实现
 /*
-* 1. 懒汉式，线程不安全
-* 这种方式是最基本的实现方式，这种实现最大的问题就是不支持多线程。因为没有加锁 synchronized，所以严格意义上它并不算单例模式。
-* */
+ * 1. 懒汉式，线程不安全
+ * 这种方式是最基本的实现方式，这种实现最大的问题就是不支持多线程。因为没有加锁 synchronized，所以严格意义上它并不算单例模式。
+ * */
 /*public class SingleObject {
     private static SingleObject instance;
     private SingleObject() {}
@@ -37,9 +38,9 @@ public class SingleObject {
 }*/
 
 /*
-* 2、懒汉式，线程安全
-*这种方式具备很好的 lazy loading，能够在多线程中很好的工作，但是，效率很低，99% 情况下不需要同步。
-* */
+ * 2、懒汉式，线程安全
+ *这种方式具备很好的 lazy loading，能够在多线程中很好的工作，但是，效率很低，99% 情况下不需要同步。
+ * */
 /*
 public class SingleObject {
     private static SingleObject instance;
@@ -53,9 +54,9 @@ public class SingleObject {
 } */
 
 /*
-* 3、饿汉式
-* 它基于 classloder 机制避免了多线程的同步问题，不过，instance 在类装载时就实例化,这时候初始化 instance 显然没有达到 lazy loading 的效果。
-* */
+ * 3、饿汉式
+ * 它基于 classloder 机制避免了多线程的同步问题，不过，instance 在类装载时就实例化,这时候初始化 instance 显然没有达到 lazy loading 的效果。
+ * */
 /*
 public class SingleObject {
     private static SingleObject instance = new SingleObject();
