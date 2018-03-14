@@ -1,11 +1,12 @@
 package bobo.algo.binary_search_tree_05.binary_search_01;
 
-// 递归的二分查找算法
+// 递归的 二分查找算法
 public class BinarySearch2 {
 
     // 我们的算法类不允许产生任何实例
     private BinarySearch2() {}
 
+    // 递归的二分查找性能会差一些
     private static int find(Comparable[] arr, int l, int r, Comparable target){
 
         if( l > r )

@@ -13,6 +13,12 @@ public class MergeSort {
 
         // 将指定数组的位置复制到一个新的数组
         // 注意：aux数组标从0开始，与原来的数组arr有l偏移量
+        /*
+        * 参数：
+        *   original - 将要从其复制一个范围的数组
+        *   from - 要复制的范围的初始索引（包括）
+        *   to - 要复制的范围的最后索引（不包括）。（此索引可以位于数组范围之外）。
+        * */
         Comparable[] aux = Arrays.copyOfRange(arr, l, r + 1);
 
         // 初始化，i指向左半部分的起始索引位置l；j指向右半部分起始索引位置mid+1

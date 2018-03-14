@@ -33,14 +33,14 @@ public class Solution {
 
         while (pNode != null) {
 
-            ListNode tempNext = pNode.next; // 预先保存下一个元素
+            ListNode tempNext = pNode.next; // 预先保存下一个节点
             if (tempNext == null) {
                 newHead = pNode;
             }
-            pNode.next = pPre;
+            pNode.next = pPre; // 转变方向
             // 前一个元素（反转后要指向的元素） 和  下一个要处理的元素
             pPre = pNode;
-            pNode = tempNext;
+            pNode = tempNext;   //将保存的后面的节点作为下一次循环的p
         }
 
         return newHead;

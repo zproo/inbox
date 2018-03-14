@@ -125,9 +125,9 @@ public class BST<Key extends Comparable<Key>, Value> {
         root = remove(root, key);
     }
 
-    //********************
+    //********************************************************************************
     //* 二分搜索树的辅助函数
-    //********************
+    //********************************************************************************
 
     // 向以node为根的二分搜索树中, 插入节点(key, value), 使用递归算法
     // 返回插入新节点后的二分搜索树的根
@@ -274,7 +274,7 @@ public class BST<Key extends Comparable<Key>, Value> {
 
             // 待删除节点左子树为空的情况
             if( node.left == null ){
-                Node rightNode = node.right;
+                Node rightNode = node.right;    // 保存右节点（即删除该节点后顶替的节点）
                 node.right = null;
                 count --;
                 return rightNode;
@@ -293,7 +293,7 @@ public class BST<Key extends Comparable<Key>, Value> {
             // 找到比待删除节点大的最小节点, 即待删除节点右子树的最小节点
             // 用这个节点顶替待删除节点的位置
             Node successor = new Node(minimum(node.right));
-            count ++;
+            count ++;   // 新建了一个节点，所以节点数量先加1
 
             successor.right = removeMin(node.right); //删除右子树的最小值
             successor.left = node.left;

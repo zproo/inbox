@@ -41,6 +41,7 @@ public class QuickSort3Ways {
 
         swap( arr, l, lt );
 
+        // 之后等于v的部分不在参与排序，少考虑了很多元素
         sort(arr, l, lt-1);
         sort(arr, gt, r);
     }

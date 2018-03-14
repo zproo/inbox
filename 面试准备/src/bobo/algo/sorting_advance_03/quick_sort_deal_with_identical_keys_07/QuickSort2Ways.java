@@ -33,6 +33,7 @@ public class QuickSort2Ways {
             if( i > j )
                 break;
 
+            // i 和 j相等时把相等的值平分开来
             swap( arr, i, j );
             i ++;
             j --;

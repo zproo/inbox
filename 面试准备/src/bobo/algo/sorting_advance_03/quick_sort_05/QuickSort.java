@@ -9,7 +9,7 @@ public class QuickSort {
     // 返回p, 使得arr[l...p-1] < arr[p] ; arr[p+1...r] > arr[p]
     private static int partition(Comparable[] arr, int l, int r){
 
-        Comparable v = arr[l];
+        Comparable v = arr[l]; // 默认取第一个元素进行比较
 
         int j = l; // arr[l+1...j] < v ; arr[j+1...i) > v
         for( int i = l + 1 ; i <= r ; i ++ )
