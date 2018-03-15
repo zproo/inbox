@@ -63,7 +63,7 @@ public class Solution {
             return true;
         }
 
-        if (root1 == null) {
+        if (root1 == null) {    // 树2还没比较完了，树1比较完了，不是子树
             return false;
         }
 
