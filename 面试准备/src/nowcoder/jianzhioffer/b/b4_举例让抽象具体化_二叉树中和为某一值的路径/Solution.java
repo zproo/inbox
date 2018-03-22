@@ -59,13 +59,14 @@ public class Solution {
                 for (int i : path) {
                     list.add(new Integer(i));
                 }
+                // 把当前元素也放到list中
                 list.add(new Integer(root.val));
                 pathList.add(list);
             }
         } else { //不是叶子节点就遍历其子节点
             path.push(new Integer(root.val));
-            // 是按照前序遍历的方式查找路径，如果向上退出到父节点时，
-            // 要回到target值，而不是target-root.val
+            // 是按照前序遍历的方式查找路径，
+            // 如果向上退出到父节点时，要回到target值，而不是target-root.val
             FindPath(root.left, target-root.val, path, pathList);
             FindPath(root.right, target-root.val, path,  pathList);
             path.pop();

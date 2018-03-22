@@ -29,7 +29,8 @@ public class Solution {
 
             if (midData == k) {
 
-                if (mid > 0 && array[mid - 1] != k || mid == 0) {
+                //判断是不是第一个K，前一个不等于K，就是第一个K
+                if ((mid > 0 && array[mid - 1] != k) || mid == 0) {
                     return mid;
                 } else {
                     right = mid - 1;
@@ -53,7 +54,7 @@ public class Solution {
             if (midData == k) {
 
                 //判断是不是最后一个K，后一个不等于K，就是最后一个K
-                if (mid < right && array[mid + 1] != k || mid == right) {
+                if ((mid < right && array[mid + 1] != k) || mid == right) {
                     return mid;
                 } else {
                     left = mid + 1;

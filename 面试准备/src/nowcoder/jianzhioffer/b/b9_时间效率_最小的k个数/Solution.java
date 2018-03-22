@@ -24,21 +24,21 @@ public class Solution {
         ArrayList arrayList = new ArrayList();
         if(input.length == 0 || k > input.length || k <= 0)
             return arrayList;
-        int low = 0;
-        int high = input.length - 1;
-        int index = Partition(input, low, high);
+        int left = 0;
+        int right = input.length - 1;
+        int index = Partition(input, left, right);
         while (index != k - 1) {
             if (index > k - 1) {
-                high = index - 1;
-                index = Partition(input, low, high);
+                right = index - 1;
+                index = Partition(input, left, right);
             } else {
-                low = index + 1;
-                index = Partition(input, low, high);
+                left = index + 1;
+                index = Partition(input, left, right);
             }
         }
 
+        // 将最小的k个数放入list并返回
         for (int i = 0; i < k; i++) {
-
             arrayList.add(input[i]);
         }
         return arrayList;

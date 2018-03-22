@@ -55,6 +55,7 @@ public class Solution {
                 aux[k] = array[j];
                 j++;
                 // 关键代码：因为后面数组的数字跳过了前面数组剩余的数字，剩余多少个就是多少的逆序对
+                // 因为merge的时候前后都是已经 从小到大 排好顺序的
                 reversePairNum += mid - i + 1;
                 // 避免逆序对数量过多 溢出
                 if (reversePairNum > 1000000007) {

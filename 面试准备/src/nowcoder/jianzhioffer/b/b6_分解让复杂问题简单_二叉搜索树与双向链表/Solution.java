@@ -25,7 +25,7 @@ public class Solution {
             return root;
         }
 
-        // 1.将左子树构造成双链表，并返回链表头节点
+        // 1.将左子树构造成双链表，并返回链表 “头节点”
         TreeNode left = Convert(root.left);
         // 2.定位至左子树双链表最后一个节点
         TreeNode p = left;

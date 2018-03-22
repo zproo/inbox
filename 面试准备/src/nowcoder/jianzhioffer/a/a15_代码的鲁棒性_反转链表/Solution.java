@@ -35,6 +35,7 @@ public class Solution {
 
             ListNode tempNext = pNode.next; // 预先保存下一个节点
             if (tempNext == null) {
+                // 下一个几点为空，即反转后的头节点 ，保存一下
                 newHead = pNode;
             }
             pNode.next = pPre; // 转变方向

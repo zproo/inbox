@@ -27,8 +27,10 @@ public class Solution {
             }
             // 如果low、up、mid下标所指的值恰巧相等
             // 如：{0,1,1,1,1}的旋转数组{1,1,1,0,1}
+            // 此时这种方法无效，使用常规的顺序查找法
             if (array[left] == array[right]
                     && array[left] == array[mid]) {
+
                 return minInOrder(array);
             }
 

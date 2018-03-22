@@ -21,6 +21,8 @@ public class QuickSort3Ways {
 
         Comparable v = arr[l];
 
+        // lt: lessthan小于的缩写
+        // gt：greaterthan大于
         int lt = l;     // arr[l+1...lt] < v
         int gt = r + 1; // arr[gt...r] > v
         int i = l+1;    // arr[lt+1...i) == v

@@ -36,7 +36,7 @@ public class Solution {
             }
             return pHead1;
         }
-        if (lengthDiff <= 0) {   // 链表1长，先在链表一上走几步
+        if (lengthDiff <= 0) {   // 链表2长，先在链表2上走几步
             while (lengthDiff < 0) {
                 pHead2 = pHead2.next;
                 lengthDiff++;
