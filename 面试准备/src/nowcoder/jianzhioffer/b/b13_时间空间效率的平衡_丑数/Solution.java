@@ -1,6 +1,6 @@
 package nowcoder.jianzhioffer.b.b13_时间空间效率的平衡_丑数;
 
-import priv.zj.others.Main;
+import priv.zproo.others.Main;
 
 import java.util.ArrayList;
 
