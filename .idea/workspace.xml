@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ce4cecb-d394-4040-9d1a-cb977465835f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/priv/zproo/java/multi_thread/demo/FutureCook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/.idea/DesignPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-0.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-1.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-10.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-3.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-4.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-5.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-6.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-7.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-8.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/bobo/Chapter-9.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/sxtdp/005_Factory_Series_DesignPattern.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/sxtdp/006_Dynamic_Proxy_Spring_AOP.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/file/sxtdp/About_Girl.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_01/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_01/BinarySearch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_01/temp/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_basic_02/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_basic_02/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_basic_02/temp/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_basic_02/temp/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_insert_03/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_insert_03/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_insert_03/temp/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_insert_03/temp/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/temp/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/temp/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/temp/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/temp/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/temp/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/temp/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/FileOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/SST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/SST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/bible.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/temp/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/temp/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/temp/FileOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/temp/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/temp/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/FileOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/SST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/SST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/communist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/ShortestPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Components.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/ShortestPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/testG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/Components.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/temp/Components.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/temp/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/temp/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/temp/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/temp/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/dfs_and_components_05/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/temp/Components.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/temp/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/temp/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/temp/Path.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/temp/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/temp/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/finding_a_path_06/testG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/graph_representation_02/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/graph_representation_02/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/graph_representation_02/temp/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/graph_representation_02/temp/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/temp/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/temp/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/temp/ReadGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/temp/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/read_graph_04/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/temp/DenseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/temp/SparseGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/HeapSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/HeapSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/QuickSort2Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/QuickSort3Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/temp/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heap_sort_06/temp/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/HeapSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/HeapSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/QuickSort2Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/QuickSort3Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/temp/HeapSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/temp/HeapSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/temp/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/heapify_05/temp/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/max_heap_class_basic_02/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/max_heap_class_basic_02/temp/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/shift_down_04/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/shift_down_04/temp/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/shift_up_03/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/shift_up_03/PrintableMaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/heap_04/shift_up_03/temp/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/IndexMinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/LazyPrimMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/PrimMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/IndexMinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/KruskalMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/LazyPrimMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/PrimMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/UnionFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/LazyPrimMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/LazyPrimMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/lazy_prim_03/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/minimum_span_trees_08/weighted_graph_01/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/BellmanFord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/file/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/file/testG_negative_circle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/DenseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/Dijkstra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/IndexMinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/ReadWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/SparseWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/WeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_advance_03/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_advance_03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_advance_03/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_advance_03/MergeSort2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_advance_03/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/MergeSortBU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_05/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_05/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_05/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_05/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_05/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/QuickSort2Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/QuickSort2Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/QuickSort3Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/insertion_sort_advance_06/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/insertion_sort_advance_06/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/insertion_sort_advance_06/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/insertion_sort_advance_06/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/selection_sort_detect_performance_04/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/selection_sort_detect_performance_04/SortTestHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/selection_sort_using_comparable_02/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/bobo/algo/sorting_basic_02/selection_sort_using_comparable_02/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a10_递归和循环_矩形覆盖/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a11_位运算_二进制中1的个数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a12_代码完整性_数值的整数次方/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a13_代码完整性_调整数组顺序使奇数位于偶数前面/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a14_代码的鲁棒性_链表中倒数第k个结点/Solution$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a14_代码的鲁棒性_链表中倒数第k个结点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a15_代码的鲁棒性_反转链表/Solution$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a15_代码的鲁棒性_反转链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a16_代码的鲁棒性_合并两个排序的链表/Solution$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a16_代码的鲁棒性_合并两个排序的链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a17_代码的鲁棒性_树的子结构/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a17_代码的鲁棒性_树的子结构/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a18_画图让抽象形象化_顺时针打印矩阵/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a19_举例让抽象具体化_包含min函数的栈/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a1_数组_二维数组中的查找/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a2_字符串_替换空格/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a3_链表_从尾到头打印链表/Solution$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a3_链表_从尾到头打印链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a4_树_重建二叉树/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a4_树_重建二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a5_栈和队列_用两个栈实现队列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a6_查找和排序_旋转数组的最小数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a7_递归和循环_斐波那契数列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a8_递归和循环_跳台阶/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/a/a9_递归和循环_变态跳台阶/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b10_时间效率_连续子数组的最大和/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b12_时间效率_把数组排成最小的数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b13_时间空间效率的平衡_丑数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b14_时间空间效率的平衡_第一个只出现一次的字符位置/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b15_时间空间效率的平衡_数组中的逆序对/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b16_时间空间效率的平衡_两个链表的第一个公共节点/Solution$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b16_时间空间效率的平衡_两个链表的第一个公共节点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b17_知识迁移能力_数字在排序数组中出现的次数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b18_知识迁移能力_二叉树的深度/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b18_知识迁移能力_二叉树的深度/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b19_知识迁移能力_平衡二叉树/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b19_知识迁移能力_平衡二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b1_举例让抽象具体化_栈的压入弹出序列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b20_知识迁移能力_数组中只出现一次的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b2_举例让抽象具体化_从上往下打印二叉树/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b2_举例让抽象具体化_从上往下打印二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b3_举例让抽象具体化_二叉搜索树的后序遍历序列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b4_举例让抽象具体化_二叉树中和为某一值的路径/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b4_举例让抽象具体化_二叉树中和为某一值的路径/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b6_分解让复杂问题简单_二叉搜索树与双向链表/Solution$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b6_分解让复杂问题简单_二叉搜索树与双向链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b7_分解让复杂问题简单_字符串的排列/PermutationCombinationHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b7_分解让复杂问题简单_字符串的排列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b8_时间效率_数组中出现次数超过一半的数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/b/b9_时间效率_最小的k个数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c1_知识迁移能力_和为S的连续正数序列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c2_知识迁移能力_和为S的两个数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c3_知识迁移能力_左旋转字符串/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c4_知识迁移能力_翻转单词顺序列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c5_抽象建模能力_扑克牌顺子/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c6_抽象建模能力_圆圈中最后剩下的数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c7_发散思维能力_求1加到n/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/c/c8_发散思维能力_不用加减乘除做加法/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/nowcoder/jianzhioffer/test/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/AbstractFactoryPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Blue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/ColorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/FactoryProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Green.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Red.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/AbstractFactory/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/Factory/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/Factory/FactoryPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/Factory/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/Factory/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/Factory/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/Factory/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/singleton/SingleObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/创建型/singleton/SingletonPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/adapter/AdapterPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/adapter/AdvancedMediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/adapter/AudioPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/adapter/MediaAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/adapter/MediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/adapter/Mp4Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/adapter/VlcPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/facade/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/facade/FacadePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/facade/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/facade/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/facade/ShapeMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/结构型/facade/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/Iterator/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/Iterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/Iterator/IteratorPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/Iterator/NameRepository$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/Iterator/NameRepository$NameIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/Iterator/NameRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/observer/BinaryObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/observer/HexaObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/observer/ObserverPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/observer/OctalObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/designpattern/行为型/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/ForArticle$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/ForArticle$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/ForArticle$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/ForArticle$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/ForArticle$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/ForArticle$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/ForArticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloConcurrent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloConcurrent$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloConcurrent$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloConcurrent$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloConcurrent$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloConcurrent$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloConcurrent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloProducerConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloProducerConsumer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloProducerConsumer$Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloProducerConsumer$Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloProducerConsumer$ProductCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloProducerConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloThreadLocal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloThreadLocal$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloThreadLocal$CommonRunnable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloThreadLocal$CommonRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloThreadLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$PrintThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile$SimplePrintThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/HelloVolatile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/lock_and_sychronized/LockTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/lock_and_sychronized/LockTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/lock_and_sychronized/LockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/producer_and_consumer/ConsumerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/producer_and_consumer/ProducerConsumerWithWaitNofity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/producer_and_consumer/ProducerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/java/multi_thread/producer_and_consumer/Resource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/indexing/SearchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/redblack_tree/RBTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/redblack_tree/RBTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/sorting/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/sorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/sorting/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/sorting/quicksort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/myalgo/sorting/quicksort/QuickSort3Ways.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/out/production/DesignPattern/priv/zj/others/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_01/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_01/BinarySearch2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_01/temp/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_basic_02/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_basic_02/temp/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_insert_03/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_insert_03/temp/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_level_traverse_06/temp/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/temp/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_08/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/temp/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_remove_min_and_max_07/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/FileOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/SST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/bible.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/temp/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/temp/FileOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_search_04/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/binary_search_tree_traverse_05/temp/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/FileOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/SST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/binary_search_tree_05/the_disadvantages_of_binary_search_tree_and_more_trees_10/communist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/Path.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/ShortestPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Components.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/Path.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/ShortestPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/temp/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/bfs_and_shortest_path_07/testG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/Components.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/temp/Components.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/temp/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/temp/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/temp/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/temp/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/dfs_and_components_05/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/Path.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/temp/Components.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/temp/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/temp/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/temp/Path.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/temp/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/temp/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/finding_a_path_06/testG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/graph_representation_02/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/graph_representation_02/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/graph_representation_02/temp/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/graph_representation_02/temp/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/temp/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/temp/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/temp/ReadGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/temp/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/read_graph_04/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/temp/DenseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/graph_basics_07/vertex_adjacent_iterator_03/temp/SparseGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/HeapSort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/HeapSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/QuickSort2Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/QuickSort3Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/temp/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heap_sort_06/temp/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/HeapSort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/HeapSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/QuickSort2Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/QuickSort3Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/temp/HeapSort1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/temp/HeapSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/temp/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/heapify_05/temp/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/max_heap_class_basic_02/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/max_heap_class_basic_02/temp/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/shift_down_04/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/shift_down_04/temp/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/shift_up_03/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/shift_up_03/PrintableMaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/heap_04/shift_up_03/temp/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/IndexMinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/LazyPrimMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/MinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/PrimMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/implementation_of_optimized_prim_algorithm_05/file/testG4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/IndexMinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/KruskalMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/LazyPrimMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/MinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/PrimMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/UnionFind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/kruskal_algorithm_06/file/testG4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/LazyPrimMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/MinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/LazyPrimMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/MinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/temp/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/lazy_prim_03/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/temp/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/minimum_span_trees_08/weighted_graph_01/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/BellmanFord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/file/testG2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/b/implementation_of_bellman_ford_05/file/testG_negative_circle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/DenseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/Dijkstra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/IndexMinHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/ReadWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/SparseWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/WeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/shortest_path_09/implementation_of_dijkstra_03/testG1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_advance_03/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_advance_03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_advance_03/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_advance_03/MergeSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_advance_03/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/MergeSortBU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/merge_sort_bottom_up_04/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_05/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_05/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_05/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_05/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_05/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/QuickSort2Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_deal_with_identical_keys_07/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/QuickSort2Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/QuickSort3Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_advance_03/quick_sort_three_ways_08/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/insertion_sort_advance_06/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/insertion_sort_advance_06/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/insertion_sort_advance_06/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/insertion_sort_advance_06/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/selection_sort_detect_performance_04/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/selection_sort_detect_performance_04/SortTestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/selection_sort_using_comparable_02/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/bobo/algo/sorting_basic_02/selection_sort_using_comparable_02/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/Boy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/Flower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/Gift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/GiftImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/MM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/Ring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/WarmGift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/bridge/WildGift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/Broom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/BroomFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/Moveable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/PlaneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/VehicleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/AK47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/Broom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/DefaultFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/MagicFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/MagicStick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/MushRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/factory/abstractfactory/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/InvocationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/Moveable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/Proxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/Tank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/TimeHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/test/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/test/TransactionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/test/UserMgr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/proxy/test/UserMgrImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/singleton/SingleObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/com/sxt/dp/singleton/SingletonPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a10_递归和循环_矩形覆盖/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a11_位运算_二进制中1的个数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a12_代码完整性_数值的整数次方/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a13_代码完整性_调整数组顺序使奇数位于偶数前面/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a14_代码的鲁棒性_链表中倒数第k个结点/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a15_代码的鲁棒性_反转链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a16_代码的鲁棒性_合并两个排序的链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a17_代码的鲁棒性_树的子结构/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a18_画图让抽象形象化_顺时针打印矩阵/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a19_举例让抽象具体化_包含min函数的栈/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a1_数组_二维数组中的查找/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a2_字符串_替换空格/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a3_链表_从尾到头打印链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a4_树_重建二叉树/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a5_栈和队列_用两个栈实现队列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a6_查找和排序_旋转数组的最小数字/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a7_递归和循环_斐波那契数列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a8_递归和循环_跳台阶/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/a/a9_递归和循环_变态跳台阶/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b10_时间效率_连续子数组的最大和/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b12_时间效率_把数组排成最小的数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b13_时间空间效率的平衡_丑数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b14_时间空间效率的平衡_第一个只出现一次的字符位置/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b15_时间空间效率的平衡_数组中的逆序对/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b16_时间空间效率的平衡_两个链表的第一个公共节点/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b17_知识迁移能力_数字在排序数组中出现的次数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b18_知识迁移能力_二叉树的深度/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b19_知识迁移能力_平衡二叉树/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b1_举例让抽象具体化_栈的压入弹出序列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b20_知识迁移能力_数组中只出现一次的数字/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b2_举例让抽象具体化_从上往下打印二叉树/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b3_举例让抽象具体化_二叉搜索树的后序遍历序列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b4_举例让抽象具体化_二叉树中和为某一值的路径/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b6_分解让复杂问题简单_二叉搜索树与双向链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b7_分解让复杂问题简单_字符串的排列/PermutationCombinationHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b7_分解让复杂问题简单_字符串的排列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b8_时间效率_数组中出现次数超过一半的数字/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/b/b9_时间效率_最小的k个数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c1_知识迁移能力_和为S的连续正数序列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c2_知识迁移能力_和为S的两个数字/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c3_知识迁移能力_左旋转字符串/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c4_知识迁移能力_翻转单词顺序列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c5_抽象建模能力_扑克牌顺子/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c6_抽象建模能力_圆圈中最后剩下的数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c7_发散思维能力_求1加到n/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/c/c8_发散思维能力_不用加减乘除做加法/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/nowcoder/jianzhioffer/test/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/AbstractFactoryPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Blue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/ColorFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/FactoryProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Green.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Red.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/ShapeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/AbstractFactory/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/Factory/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/Factory/FactoryPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/Factory/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/Factory/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/Factory/ShapeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/Factory/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/singleton/SingleObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/创建型/singleton/SingletonPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/adapter/AdapterPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/adapter/AdvancedMediaPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/adapter/AudioPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/adapter/MediaAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/adapter/MediaPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/adapter/Mp4Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/adapter/VlcPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/facade/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/facade/FacadePatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/facade/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/facade/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/facade/ShapeMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/结构型/facade/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/Iterator/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/Iterator/Iterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/Iterator/IteratorPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/Iterator/NameRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/observer/BinaryObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/observer/HexaObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/observer/ObserverPatternDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/observer/OctalObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/designpattern/行为型/observer/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/ForArticle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/HelloConcurrent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/HelloProducerConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/HelloThreadLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/HelloVolatile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/lock_and_sychronized/LockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/java/multi_thread/producer_and_consumer/ProducerConsumerWithWaitNofity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/indexing/SearchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/redblack_tree/RBTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/redblack_tree/RBTreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/sorting/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/sorting/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/sorting/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/sorting/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/sorting/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/sorting/quicksort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/myalgo/sorting/quicksort/QuickSort3Ways.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp-面试准备/src/priv/zproo/others/Main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/others/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/ForArticle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-902">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloConcurrent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloProducerConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloThreadLocal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloVolatile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/demo/FutureCook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#893#900#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/priv/zproo/java/multi_thread/demo/FutureCook.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-318" />
+    <option name="y" value="-1088" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="inbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhioffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zproo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zproo" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557922822154" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ce4cecb-d394-4040-9d1a-cb977465835f" name="Default Changelist" comment="" />
+      <created>1557922626883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557922626883</updated>
+      <workItem from="1557922630844" duration="45000" />
+      <workItem from="1557922711491" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-318" y="-1088" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/others/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/ForArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-902">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloConcurrent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/HelloVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priv/zproo/java/multi_thread/demo/FutureCook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#893#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
